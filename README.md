@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0125-valid-palindrome) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
