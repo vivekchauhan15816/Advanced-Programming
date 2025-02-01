@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0125-valid-palindrome) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
