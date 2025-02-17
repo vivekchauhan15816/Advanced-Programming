@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
