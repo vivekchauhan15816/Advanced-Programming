@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -117,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
