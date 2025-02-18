@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
