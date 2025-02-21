@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0125-valid-palindrome) |
+| [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
+| [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
