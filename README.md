@@ -163,14 +163,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
