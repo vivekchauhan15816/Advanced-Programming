@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
