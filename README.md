@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
