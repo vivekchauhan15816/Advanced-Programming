@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0125-valid-palindrome) |
+| [1873-longest-nice-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1873-longest-nice-substring) |
 | [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1873-longest-nice-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1873-longest-nice-substring) |
 | [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1873-longest-nice-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0968-beautiful-array) |
+| [1873-longest-nice-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
+| [1873-longest-nice-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
