@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0968-beautiful-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
@@ -205,4 +208,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
