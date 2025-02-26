@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
