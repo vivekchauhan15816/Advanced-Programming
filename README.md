@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0968-beautiful-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
