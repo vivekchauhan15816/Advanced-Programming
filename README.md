@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0287-find-the-duplicate-number) |
