@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0191-number-of-1-bits) |
