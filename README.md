@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0968-beautiful-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0324-wiggle-sort-ii) |
+| [1829-maximum-units-on-a-truck](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1829-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0948-sort-an-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
