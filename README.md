@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2107-find-unique-binary-string](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/0324-wiggle-sort-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1829-maximum-units-on-a-truck) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/vivekchauhan15816/Advanced-Programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Linked List
 |  |
 | ------- |
